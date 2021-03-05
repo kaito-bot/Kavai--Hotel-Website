@@ -1,1 +1,1 @@
-# Kavai--Hotel-Website
+# Kavai-Hotel-Website
