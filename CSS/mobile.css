@@ -16,6 +16,11 @@
     border-bottom: #444 dotted 1px;
 }
 
+/* Showcase */
+#showcase .showcase-content {
+      padding-top: 70px;
+}
+
 
 /* home-info */
 
