@@ -101,7 +101,7 @@ p {
     color: aliceblue;
 }
 
-#navbar h1 {
+#navbar .logo{
     padding-top: 20px;
     float: left;
 }
@@ -309,6 +309,6 @@ p {
     text-align: center;
     background: #444;
     color: #fff;
-    padding : 2px 10px;
+    padding : 10px 10px;
 }
 

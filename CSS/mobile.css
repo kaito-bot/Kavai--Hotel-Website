@@ -1,0 +1,43 @@
+/* Navbar */
+#navbar .logo{
+    padding-top: 5px;
+    float: none;
+    text-align: center;
+}
+
+
+#navbar ul, #navbar ul li {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul li a {
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+}
+
+
+/* home-info */
+
+#home-info .info-img {
+    
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+    padding: 10px;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+/* features */
+
+.box{
+    float:none;
+    width: 100%;
+    padding:50px;
+    text-align: center;
+}
