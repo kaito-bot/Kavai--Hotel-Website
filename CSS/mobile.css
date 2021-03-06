@@ -17,8 +17,12 @@
 }
 
 /* Showcase */
+#showcase {
+    height: 100%;
+}
 #showcase .showcase-content {
       padding-top: 70px;
+      padding-bottom: 30px;
 }
 
 
@@ -54,6 +58,7 @@
 /* About Section */
 .l-heading {
     text-align: center;
+    line-height: 0.9em;
 }
 #about-info .info-left , #about-info .info-right {
 float: none;

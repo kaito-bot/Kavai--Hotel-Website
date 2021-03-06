@@ -179,6 +179,10 @@ p {
 
 }
 
+#home-info .info-content h2 {
+    margin-top: 5%;
+}
+
 #home-info .info-content p {
     padding-bottom: 30px;
 }
